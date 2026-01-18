@@ -21,6 +21,8 @@ This is the main container for everything.
   venv (Virtual Environment): 
   I set this up first. It’s supposed to be a clean, isolated space for all my software libraries. 
   I installed Django, Channels, and the Djongo connector here.
+  Later i dedleted it coz it took a lot of space 
+  So when you run this you can use a virual environment
 
   manage.py: 
   This is the standard control script for Django.
